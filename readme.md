@@ -17,10 +17,14 @@ This is a React Native app which uses the openweather api to display weather dat
 
     ```cd react-native-weather-app```
 
-3. **Install dependencies:**
+3. **Add openweather api key to env file**
+
+    Create a new file name .env and add your open api key as the exmaple env file
+
+4. **Install dependencies:**
 
     ```yarn```
 
-4. **Start the development app:**
+5. **Start the development app:**
 
     ```yarn start```
